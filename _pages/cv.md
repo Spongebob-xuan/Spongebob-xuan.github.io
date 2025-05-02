@@ -9,56 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
+CV
+
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Master of Engineering in Financial Engineering, Cornell University, 2025
+Bachelor of Science in Mathematics, Nanjing University, 2024
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Work Experience
+2024.3–2024.7: Lingjun Investment LLP
+Quantitative Research Intern
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+2023.2–2023.7: Sinolink Securities
+Quantitative Research Intern
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+2022.7–2022.10: Huatai Futures
+OTC Options Trader Intern
+
+Projects
+2025.1–2025.2: Cornell University
+Design of Market Microstructure-Aware Execution Strategies
+
+2023.3–2023.6: Sinolink Securities
+High-Frequency Backtesting Framework for Options Arbitrage
+
+2022.9–2023.1: Nanjing University
+Factor-Based Long-Short Strategy Construction Using Python
+
 Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Python
+SQL
+MATLAB
+Excel
+Tableau
+Stata
+EViews
+Linux
+LaTeX
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Coursework
+Probability & Statistics, Stochastic Processes, Stochastic Calculus, Econometrics, Optimization, Numerical Analysis, Monte Carlo Methods, Machine Learning, Big Data Technologies, Algorithmic Trading, Quantitative Risk Management, Derivatives, Fixed Income
